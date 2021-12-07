@@ -1,0 +1,5 @@
+# SEGUIMIENTO
+
+LINK PARA DASHBOARD
+
+https://jfpec21.shinyapps.io/SEGUIMIENTO/
